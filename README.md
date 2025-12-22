@@ -47,6 +47,16 @@
 </section>
 
 <section id="contact">
+  <section id="contact">
+  <h3>Contact</h3>
+  <p>Paroisse Saint Pierre et Paul de Mfoundi_A_Si</p>
+
+  <a class="whatsapp"
+     href="https://wa.me/+237 6 20 15 50 59 "
+     target="_blank">
+     📞 Contacter via WhatsApp
+  </a>
+</section>
   <h3>Contact</h3>
   <p>Paroisse Saint Pierre et Paul de Mfoundi_A_Si</p>
 </section>
@@ -95,4 +105,14 @@ footer {
   background: #2c3e50;
   color: white;
   padding: 10px;
+}
+.whatsapp {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 20px;
+  background: #25D366;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 6px;
 }
