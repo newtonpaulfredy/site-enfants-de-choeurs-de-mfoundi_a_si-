@@ -30,7 +30,7 @@
     Nous servons à l’autel avec foi, discipline et respect.
   </p>
 
-  <!IMG-20250818-W0072.jpg>
+  <!/storage/emulated/0/DCM/photos/IMG-20250818-W0072.jpg>
   <img src="images/photo1.jpg" alt="Enfants de chœur" class="photo">
 </section>
     Nous sommes les enfants de chœur de la paroisse Saint Pierre et Paul de Mfoundi_A_Si.
