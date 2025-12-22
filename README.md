@@ -23,6 +23,16 @@
 <section id="presentation">
   <h3>Présentation</h3>
   <p>
+<section id="presentation">
+  <h3>Présentation</h3>
+  <p>
+    Nous sommes les enfants de chœur de la paroisse Saint Pierre et Paul de Mfoundi_A_Si.
+    Nous servons à l’autel avec foi, discipline et respect.
+  </p>
+
+  <!IMG-20250818-W0072.jpg>
+  <img src="images/photo1.jpg" alt="Enfants de chœur" class="photo">
+</section>
     Nous sommes les enfants de chœur de la paroisse Saint Pierre et Paul de Mfoundi_A_Si.
     Nous servons à l’autel avec foi, respect et discipline.
   </p>
@@ -115,4 +125,11 @@ footer {
   text-decoration: none;
   font-weight: bold;
   border-radius: 6px;
+}
+.photo {
+  width: 100%;       /* s’adapte à l’écran */
+  max-width: 400px;  /* limite la taille sur PC */
+  display: block;
+  margin: 15px auto; /* centrer l’image */
+  border-radius: 8px; /* coins arrondis */
 }
