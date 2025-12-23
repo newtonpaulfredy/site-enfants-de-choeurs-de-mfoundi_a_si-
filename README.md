@@ -51,7 +51,7 @@
 <section id="IMG-20251222-WA0030.jpg](https://github.com/user-attachments/assets/0470e51d-0f0c-4a42-b6f6-b87381af397a)">
   <h3>Galerie</h3>
   <div class="gallery">
-    <img src="images/photo1.jpg" alt="Enfants de chœur" class="photo">
+    <img src="images/IMG-20251222-WA0030.jpg](https://github.com/user-attachments/assets/0470e51d-0f0c-4a42-b6f6-b87381af397a)" alt="Enfants de chœur" class="photo">
     <img src="images/photo2.jpg" alt="Enfants de chœur" class="photo">
     <img src="images/photo3.jpg" alt="Enfants de chœur" class="photo">
   </div>
